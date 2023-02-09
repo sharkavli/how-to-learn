@@ -1,0 +1,17 @@
+@import url(./__triangle/kaufman__triangle.css);
+@import url(../table/table.css);
+@import url(../table/_theme_dark.css/table_theme_dark.css);
+
+.kaufman {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 877px 877px;
+    position: relative;
+    background-color: #1f1f1f;
+    overflow: hidden;
+  }

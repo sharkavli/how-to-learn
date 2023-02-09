@@ -1,0 +1,28 @@
+@import url(../__image/cards__image.css);
+@import url(../__title/cards__title.css);
+@import url(../__description/cards__description.css);
+
+.cards__item {
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    width: 240px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.cards__item:first-child {
+    padding-left: 0;
+}
+
+.cards__item:nth-child(3) {
+    padding-right: 0;
+}
+
+.cards__item:nth-child(4) {
+    padding-left: 0;
+}
+

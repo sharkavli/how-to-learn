@@ -1,0 +1,6 @@
+@import url(../__cell/_theme_dark/table__cell_theme_dark.css);
+
+.table_theme_dark {
+    padding-bottom: 90px;
+    z-index: 1;
+  }
