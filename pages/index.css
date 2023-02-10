@@ -1,4 +1,5 @@
 @import url(../blocks/header/header.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place_header/logo_place_header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -17,13 +18,14 @@
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/two-columns/_oakley/two-columns_oakley.css);
+@import url(../blocks/two-columns/_lower_section/two-columns_lower_section.css);
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
